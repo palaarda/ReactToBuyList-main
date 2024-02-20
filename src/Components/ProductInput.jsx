@@ -6,7 +6,6 @@ export function ProductInput({handleInput,product})
 {
     return (
         <InputGroup className="inputs">
-                    <InputGroup.Text id="basic-addon1"><IoAddCircleOutline /></InputGroup.Text>
                     <Form.Control
                     className="form-control"
                     onChange={handleInput}

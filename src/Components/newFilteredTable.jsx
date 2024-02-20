@@ -159,7 +159,7 @@ export function NewFilteredTable({productList,isProductBought,deleteProduct}) {
           </Table>
         </div>
       ):<div className="d-flex justify-content-center m-5">
-        <h1>Ürün bulunamadı! Yeni ürün ekleyiniz.</h1>
+        <h2>Ürünleri görüntülemeden önce yeni ürün ekleyin !</h2>
       </div>}
       
     </>

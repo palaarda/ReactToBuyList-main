@@ -4,8 +4,7 @@
   box-sizing: border-box;
 }
 body{
-  background: linear-gradient(90deg, rgba(13,187,187,1) 40%, rgba(139,0,255,1) 100%);
-  
+  background: linear-gradient(90deg, rgba(107,7,186,1) 32%, rgba(9,211,207,1) 65%);
 }
 .my-table {
     color: #555;
